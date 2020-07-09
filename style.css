@@ -1,0 +1,137 @@
+.container{
+
+    margin-top: 50px;
+    background-color: #F0FFF0;
+    width: 1440px;
+    height: 576px;
+    
+}
+
+.row{
+
+    margin-bottom: 100px;
+}
+
+.sign-in-button{
+
+    background-color: #21B573;
+
+    color: #fff;
+    width: 104px;
+    height: 43px; 
+    border: none; 
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.get-start-button{
+
+    
+    background-color: #21B573;
+
+    color: #fff;
+    width: 153px;
+    height: 43px; 
+    border: none; 
+    border-radius: 33px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+h1 .green-color{
+    color: #21B573;
+}
+ .container p{
+
+    color: #FD511A;
+}
+
+.catagories img{
+    width: 85px;
+    height: 85px;
+    padding: 5px 10px;
+}
+.catagories{
+    background-color: white;
+    text-align: center;
+    
+}
+.cat1, .cat2, .cat3, .cat4{
+    width: 270px;
+    height: 270px;
+    padding: 40px 10px;
+}
+
+.cat1, .cat3, .cat4{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.online h1{
+    text-align: center;
+}
+.courses{
+    background-color: white;
+    
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-footer img{
+    width: 20px;
+    height: 20px;
+
+}
+
+.card{
+    border: none;
+    border-radius: 30px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.card-img-top{
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.test h1{
+
+    text-align: center;
+}
+.testimonial{
+
+    background-color: white;
+    height: 250px;
+}
+
+.testimonial img{
+    width: 120px;
+    height: 120px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    margin-top: none;
+    
+    
+
+}
+footer .col-md-3{
+
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+footer p {
+    text-align: center ;
+}
